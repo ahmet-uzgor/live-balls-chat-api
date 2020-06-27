@@ -1,4 +1,4 @@
-# Created by Ahmet Üzgör 
+# Created by [Ahmet Üzgör](https://www.linkedin.com/in/ahmet-%C3%BCzg%C3%B6r-a1397a134/)
 This api includes my web socket and node.js training sample codes. 
 
 In this api , I used as technology WebSocket (socket.io) - Angular.js(for frontend) - Express.js ( for backend architecture)
